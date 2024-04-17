@@ -3,6 +3,9 @@
 Author - Raghav Gupta
 <br>
 <br>
+<br>
+<br>
+PROJECT 1 :
 📦 Warehouse Management System (MySQL Backend)
 <br>
 Welcome to our Warehouse Management System project! Built with a MySQL backend, this system offers efficient management solutions for warehouses, providing seamless operations for both managers and users.
@@ -19,5 +22,7 @@ Key Features:
 Get Started:
 <br>
 1.Clone the repository.
+<br>
 2.Set up your MySQL database.
+<br>
 3.Dive into the code and explore the functionality!
